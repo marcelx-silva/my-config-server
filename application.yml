@@ -7,7 +7,6 @@ spring:
         exposure:
           include:
             - '*'
-
 greeting-service:
   greeting: "Ola"
-  default-value: "Mundo"
+  default-value: "Mundos"
